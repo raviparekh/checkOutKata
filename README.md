@@ -1,0 +1,3 @@
+
+Run Test:
+  sbt test
